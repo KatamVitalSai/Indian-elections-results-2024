@@ -83,10 +83,3 @@ Below is the data model used in the Power BI report. It defines the relationship
 - **Microsoft Power BI**
 - **OpenStreetMap** and **Bing Maps** for map visuals.
 
-## 📬 Contact
-
-For feedback or queries, feel free to reach out:
-
-**Author**: *GOTAM SAI VARSHITH*  
-📧 Email: *saivarshith1085@gmail.com*  
-🌐 GitHub: [saivarshith123](hhttps://github.com/saivarshith123)
